@@ -37,8 +37,8 @@ Replace the example image in the img_path variable with the path to your own inp
 
 # Run the code:
 
-python your_script.py
-Replace your_script.py with the name of the Python script containing the code.
+python vgg16_image.py
+
 
 The code will perform inference on the input image, visualize classification results before and after CBAM, and display feature maps for specified layers.
 # Configuration
