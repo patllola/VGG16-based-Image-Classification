@@ -30,7 +30,7 @@ pip install tensorflow keras matplotlib numpy
 # Clone the repository to your local machine:
 
 git clone https://github.com/patllola/VGG16-based-Image-Classification.git
-cd VGG16-based-Image-Classification.git
+  cd VGG16-based-Image-Classification.git
 Download the pre-trained VGG16 weights from the Keras Applications page and save them in the project directory.
 
 Replace the example image in the img_path variable with the path to your own input image.
