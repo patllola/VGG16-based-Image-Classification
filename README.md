@@ -6,16 +6,16 @@ The code consists of two main parts:
 
 ## VGG16 Model with CBAM
 
-# Implementation of a VGG16 model with CBAM integrated.
-# Pre-trained weights from the ImageNet dataset are used for the VGG16 backbone.
-# CBAM is added after the last layer of the VGG16 model.
-# Customizable output layers for classification.
-# Feature Map Visualization
+Implementation of a VGG16 model with CBAM integrated.
+Pre-trained weights from the ImageNet dataset are used for the VGG16 backbone.
+CBAM is added after the last layer of the VGG16 model.
+Customizable output layers for classification.
+Feature Map Visualization
 
-# Load an example image for testing the model.
-# Perform inference on the loaded image before and after applying CBAM.
-# Visualize the classification results before and after CBAM.
-# Extract and visualize feature maps from specific layers of the model.
+Load an example image for testing the model.
+Perform inference on the loaded image before and after applying CBAM.
+Visualize the classification results before and after CBAM.
+Extract and visualize feature maps from specific layers of the model.
 # Prerequisites
 Before running the code, make sure you have the following dependencies installed:
 
